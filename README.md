@@ -1,6 +1,6 @@
 # Practicas-Lenguaje-de-interfaz
 
-##DATOS GENERALES 
+DATOS GENERALES 
 1. **MATERIA:**  Lenguajes  de Interfaz
 2. **UNIDAD:** U2- Practicas de Lenguaje de Interfaz
 3. **ALUMNO:** REYES LEYVA XIMENA BERENICE
@@ -10,21 +10,21 @@
 
 
 ## Índice de prácticas
-1. [Ciclos numéricos](https://github.com/ximenareyess/Practicas-Lenguaje-de-interfaz/blob/main/3-Practica1-ciclonumericos/Project32_VS2022/ciclosnumericos.asm)
-2. [Captura y desplegado de mensajes](https://github.com/ximenareyess/Practicas-Lenguaje-de-interfaz/blob/main/4-Practica2-CapturayDesplegadodeMensaje.sln/Project32_VS2022/ingresodedatos.asm)
-3. [Comparación y prueba](https://github.com/ximenareyess/Practicas-Lenguaje-de-interfaz/blob/main/5-Practica3-comparacion%20y%20prueba/Project32_VS2022/Practica3-comparacion%20y%20prueba.asm)
-4. [Saltos](https://github.com/ximenareyess/Practicas-Lenguaje-de-interfaz/blob/main/6-Practica%204.%20SALTOS/Project32_VS2022/AddTwo.asm)
-   - 4.1 [Mayor, menor o igual con entrada del usuario](practica04_1_mayor_menor_igual.asm)
-5. [Condicionales](practica05_condicionales.asm)
-   - 5.1 [Repetir hasta que el usuario ingrese cero](practica05_1_repetir_hasta_cero.asm)
-6. [Decremento e incremento](practica06_decremento_incremento.asm)
-   - 6.1 [Control de ocupación de un estacionamiento](practica06_1_control_estacionamiento.asm)
-7. [Validación de formato](practica07_validacion_formato.asm)
-8. [Operaciones aritméticas](practica08_operaciones_aritmeticas.asm)
-9. [PUSH y POP](practica09_push_pop.asm)
-10. [Obtención de una cadena decimal](practica10_cadena_decimal.asm)
-11. [Operaciones lógicas](practica11_operaciones_logicas.asm)
-12. [Desplazamiento y rotación](practica12_desplazamiento_rotacion.asm)
-13. [Obtención de una cadena hexadecimal](practica13_cadena_hexadecimal.asm)
-14. [Captura y almacenamiento de datos numéricos](practica14_captura_almacenamiento.asm)
-15. [Manipulación de archivos](practica15_manipulacion_archivos.asm)
+1. [Ciclos numéricos](03.Practica1-ciclonumericos/Project32_VS2022/ciclosnumericos.asm)
+2. [Captura y desplegado de mensajes](04.Practica2-CapturayDesplegadodeMensaje.sln/Project32_VS2022/ingresodedatos.asm)
+3. [Comparación y prueba](https://github.com/ximenareyess/Practicas-Lenguaje-de-interfaz/blob/main/05.Practica3-comparacion%20y%20prueba/Project32_VS2022/Practica3-comparacion%20y%20prueba.asm)
+4. [Saltos](https://github.com/ximenareyess/Practicas-Lenguaje-de-interfaz/blob/main/06.Practica%204.%20SALTOS/Project32_VS2022/AddTwo.asm)
+   - 4.1 [Mayor, menor o igual con entrada del usuario](https://github.com/ximenareyess/Practicas-Lenguaje-de-interfaz/blob/main/06.1.Practica%204.1%20MAYOR%2CMENOR%20O%20IGUAL%20CON%20ENTRADA%20DE%20USUARIO/Project32_VS2022/MAYOR%2CMENOR%20O%20IGUAL%20CON%20ENTRADA%20DE%20USUARIO.asm)
+5. [Condicionales]([practica05_condicionales.asm](https://github.com/ximenareyess/Practicas-Lenguaje-de-interfaz/tree/main/07.Pr%C3%A1ctica5-condicional%20inicial%20WHERE)
+   - 5.1 [Repetir hasta que el usuario ingrese cero](https://github.com/ximenareyess/Practicas-Lenguaje-de-interfaz/blob/main/07.1-Practica%205.1.%20Repetir%20hasta%20que%20el%20usuario%20ingrese%200/Project32_VS2022/AddTwo.asm)
+6. [Decremento e incremento](https://github.com/ximenareyess/Practicas-Lenguaje-de-interfaz/blob/main/08.Practica6-Decremento%20e%20Incremento/Project32_VS2022/Decremento%20e%20Incremento.asm)
+   - 6.1 [Control de ocupación de un estacionamiento]((https://github.com/ximenareyess/Practicas-Lenguaje-de-interfaz/blob/main/08.1-Practica6.1-Control%20de%20estacionamiento/Project32_VS2022/Control%20de%20estacionamiento.asm))
+7. [Validación de formato]((https://github.com/ximenareyess/Practicas-Lenguaje-de-interfaz/blob/main/09.Practica7-validacion%20de%20formato/Project32_VS2022/validacion%20de%20formato.asm))
+8. [Operaciones aritméticas]((https://github.com/ximenareyess/Practicas-Lenguaje-de-interfaz/blob/main/10.Practica8-operaciones%20aritmeticas/Project32_VS2022/operaciones%20aritmeticas.asm))
+9. [PUSH y POP](https://github.com/ximenareyess/Practicas-Lenguaje-de-interfaz/blob/main/11.Pr%C3%A1ctica%209-Push%20y%20Pop/Project32_VS2022/Push%20y%20Pop.asm)
+10. [Obtención de una cadena decimal](https://github.com/ximenareyess/Practicas-Lenguaje-de-interfaz/blob/main/12.Practica%2010.%20CADENA%20CON%20DECIMAL/Project32_VS2022/Cadenacondecimal.asm)
+11. [Operaciones lógicas](https://github.com/ximenareyess/Practicas-Lenguaje-de-interfaz/blob/main/13.Pr%C3%A1ctica%2011.%20Operaciones%20l%C3%B3gicas/Project32_VS2022/AddTwo.asm)
+12. [Desplazamiento y rotación](https://github.com/ximenareyess/Practicas-Lenguaje-de-interfaz/blob/main/14.Practica12.%20Desplazamiento%20y%20rotacion/Project32_VS2022/AddTwo.asm)
+13. [Obtención de una cadena hexadecimal](https://github.com/ximenareyess/Practicas-Lenguaje-de-interfaz/blob/main/14.Practica12.%20Desplazamiento%20y%20rotacion/Project32_VS2022/AddTwo.asm)
+14. [Captura y almacenamiento de datos numéricos](https://github.com/ximenareyess/Practicas-Lenguaje-de-interfaz/blob/main/16.Practica%2014.registro%20de%20existencia%20de%20almacen/Project32_VS2022/AddTwo.asm)
+15. [Manipulación de archivos](https://github.com/ximenareyess/Practicas-Lenguaje-de-interfaz/blob/main/17.Practica%2015.Manipulacion%20de%20Archivo/Project32_VS2022/AddTwo.asm)
