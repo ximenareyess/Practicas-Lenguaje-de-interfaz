@@ -15,7 +15,7 @@ DATOS GENERALES
 3. [Comparación y prueba](https://github.com/ximenareyess/Practicas-Lenguaje-de-interfaz/blob/main/05.Practica3-comparacion%20y%20prueba/Project32_VS2022/Practica3-comparacion%20y%20prueba.asm)
 4. [Saltos](https://github.com/ximenareyess/Practicas-Lenguaje-de-interfaz/blob/main/06.Practica%204.%20SALTOS/Project32_VS2022/AddTwo.asm)
    - 4.1 [Mayor, menor o igual con entrada del usuario](https://github.com/ximenareyess/Practicas-Lenguaje-de-interfaz/blob/main/06.1.Practica%204.1%20MAYOR%2CMENOR%20O%20IGUAL%20CON%20ENTRADA%20DE%20USUARIO/Project32_VS2022/MAYOR%2CMENOR%20O%20IGUAL%20CON%20ENTRADA%20DE%20USUARIO.asm)
-5. [Condicionales](https://github.com/ximenareyess/Practicas-Lenguaje-de-interfaz/tree/main/07.Pr%C3%A1ctica5-condicional%20inicial%20WHERE)
+5. [Condicionales](https://github.com/ximenareyess/Practicas-Lenguaje-de-interfaz/blob/main/07.Pr%C3%A1ctica5-condicional%20inicial%20WHERE/Project32_VS2022/condicional%20inicial%20WHERE.asm)
    - 5.1 [Repetir hasta que el usuario ingrese cero](https://github.com/ximenareyess/Practicas-Lenguaje-de-interfaz/blob/main/07.1-Practica%205.1.%20Repetir%20hasta%20que%20el%20usuario%20ingrese%200/Project32_VS2022/AddTwo.asm)
 6. [Decremento e incremento](https://github.com/ximenareyess/Practicas-Lenguaje-de-interfaz/blob/main/08.Practica6-Decremento%20e%20Incremento/Project32_VS2022/Decremento%20e%20Incremento.asm)
    - 6.1 [Control de ocupación de un estacionamiento]((https://github.com/ximenareyess/Practicas-Lenguaje-de-interfaz/blob/main/08.1-Practica6.1-Control%20de%20estacionamiento/Project32_VS2022/Control%20de%20estacionamiento.asm))
