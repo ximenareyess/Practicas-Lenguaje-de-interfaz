@@ -1,0 +1,3 @@
+C:\LenguajesInterfaz\ProyectoBase32\Project32_VS2022\Debug\Project.exe
+C:\LenguajesInterfaz\Practica2\Project32_VS2022\Debug\Project.exe
+C:\LenguajesInterfaz\holamundo\Project32_VS2022\Debug\Project.exe
